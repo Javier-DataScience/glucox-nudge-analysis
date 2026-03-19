@@ -17,7 +17,7 @@ The project analyzes how patients respond to nudges (push notifications) in the 
 - Python 3.10+
 - Install dependencies:
 
-```bash
+
 pip install -r requirements.txt
 
 ## How to Run
@@ -32,3 +32,4 @@ Notes
 All paths in the code are relative.
 
 This project was developed using AI tools for code suggestions (ChatGPT), with careful validation and customization.
+```bash
